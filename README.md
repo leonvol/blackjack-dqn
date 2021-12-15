@@ -37,13 +37,13 @@ If the agent wins the game, it gets back the whole bet as the reward. Otherwise,
 ** average of 1000 played games after 500.000 epoch training
 
 ## Training
-<img src="https://raw.githubusercontent.com/leonvol/blackjack-dqn/main/docs/training.png" alt="training graph">
+<img src="https://raw.githubusercontent.com/leonvol/blackjack-dqn/master/docs/training.png" alt="training graph">
 
 training graph of the best (15,5) network structure with a learning rate of 0.1
 
 
 ## Embedding 
-| <img src="https://raw.githubusercontent.com/leonvol/blackjack-dqn/main/docs/embedding_before.png" alt="embedding before"> | <img src="https://raw.githubusercontent.com/leonvol/blackjack-dqn/main/docs/embedding_after.png" alt="embedding after"> |
+| <img src="https://raw.githubusercontent.com/leonvol/blackjack-dqn/master/docs/embedding_before.png" alt="embedding before"> | <img src="https://raw.githubusercontent.com/leonvol/blackjack-dqn/master/docs/embedding_after.png" alt="embedding after"> |
 |-|-|
 | before training | after ~800.000 episodes of training |
 
